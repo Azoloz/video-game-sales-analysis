@@ -27,19 +27,6 @@ Main fields analyzed include platform, genre, year of release, regional sales (N
 - Regional market behavior differs, reinforcing the need for localized release and marketing strategies.
 - Review variables provide directional context but should be interpreted together with platform, genre, and market effects.
 
-## Tools
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
-
-## Repository Structure
-- `video-game-sales-analysis.ipynb`: full EDA workflow and visual analysis
-- `games (2).csv`: source dataset
-- `README.md`: project documentation
-
 ## How to Use
 1. Clone the repository.
 2. Open `video-game-sales-analysis.ipynb` in Jupyter Notebook or VS Code.
@@ -63,6 +50,19 @@ Main fields analyzed include platform, genre, year of release, regional sales (N
 - Genere insights orientados al mercado para apoyar priorizacion de plataformas, estrategia regional y toma de decisiones por categoria.
 
 **Habilidades tecnologicas utilizadas:** Python, Pandas, NumPy, Matplotlib, Seaborn, EDA, Jupyter Notebook, Git/GitHub
+
+## Tools
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## Repository Structure
+- `video-game-sales-analysis.ipynb`: full EDA workflow and visual analysis
+- `games (2).csv`: source dataset
+- `README.md`: project documentation
 
 ## Author
 Project developed as part of the TripleTen Data Analyst Bootcamp (2025).
