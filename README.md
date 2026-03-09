@@ -54,3 +54,15 @@ Main fields analyzed include platform, genre, year of release, regional sales (N
 - Produced market-oriented insights to support platform prioritization, regional strategy, and category-level decision-making.
 
 **Technological skills used:** Python, Pandas, NumPy, Matplotlib, Seaborn, EDA, Jupyter Notebook, Git/GitHub
+
+## Resume Bullet Version - ES
+**Video Game Sales Analysis** | **TripleTen Data Analyst Bootcamp (2025)**
+
+- Realice analisis exploratorio de extremo a extremo sobre ventas globales de videojuegos en plataformas, generos, variables de resenas y mercados regionales.
+- Limpie y transforme datos crudos, y luego evalue patrones historicos de desempeno y relaciones entre puntajes de resenas y resultados de ventas.
+- Genere insights orientados al mercado para apoyar priorizacion de plataformas, estrategia regional y toma de decisiones por categoria.
+
+**Habilidades tecnologicas utilizadas:** Python, Pandas, NumPy, Matplotlib, Seaborn, EDA, Jupyter Notebook, Git/GitHub
+
+## Author
+Project developed as part of the TripleTen Data Analyst Bootcamp (2025).
